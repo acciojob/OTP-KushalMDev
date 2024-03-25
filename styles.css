@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.code{
+    height: 100px;
+    width: 50px;
+}
+.code-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+}
